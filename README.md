@@ -6,6 +6,8 @@ Ms. No.: 	RED-D-20-00201
 
 Editor:  	Jonathan Heathcote
 
+Research funded by National Science Center (Narodowe Centrum Nauki), grant # 2019/35/B/HS4/00769
+
 ----
 
 
